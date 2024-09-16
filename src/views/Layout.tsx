@@ -1,3 +1,4 @@
+// This is for testing purposes only
 import { Link, Outlet } from 'react-router-dom';
 
 const Layout = () => {
